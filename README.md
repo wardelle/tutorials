@@ -1,5 +1,6 @@
 # tutorials
-tutorials ripped off from YouTube videos
+tutorials ripped off from YouTube videos. I own nothing for I am free.
+
 
 Numpy rof The Morpheus Tutorials, link: https://www.youtube.com/watch?v=Uu1Skwz98B4&t=38s, format: PyCharm, rating: meh, longwinded
 
